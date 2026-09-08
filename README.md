@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ganesh Gokhale
 
-### 📊 Data Analyst | 🔬 Aspiring Data Scientist | 🐍 Python | SQL | Power BI | Machine Learning
+### 📊 Data Analyst | 🔬 Data Scientist | 🐍 Python | SQL | Power BI | Machine Learning
 
 ### 💡 Turning Data → Insights → Predictions → Solutions
 

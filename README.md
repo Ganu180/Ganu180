@@ -199,8 +199,7 @@ Machine Learning classification project demonstrating the implementation and opt
 
 **Tech Stack:** `Python` `Pandas` `Scikit-learn`
 
-[![View Repository](https://img.shields.io/badge/View%20Project-KNN%20Classification-181717?style=for-the-badge\&logo=github)]
-(https://github.com/Ganu180/KNN-Classification)
+[![View Project](https://img.shields.io/badge/View%20Project-KNN%20Classification-181717?style=for-the-badge&logo=github)](https://github.com/Ganu180/KNN-Classification)
 
 ---
 

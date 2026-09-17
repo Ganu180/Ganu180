@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Ganesh Gokhale
 
-### 📊 Data Analyst | 🔬 Data Scientist | 🐍 Python | SQL | Power BI | Machine Learning
+### 📊 Data Analyst | Data Science | Python • SQL • Power BI • Machine Learning
 
-### 💡 Turning Data → Insights → Predictions → Solutions
+**Turning Data into Business Insights & Predictive Solutions**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh%20Gokhale-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ganesh-gokhale-g18/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:iamganeshgokhale180@gmail.com)
@@ -16,20 +16,164 @@
 
 ## 👨‍💻 About Me
 
-I'm a fresher passionate about **Data Analytics, Data Science, and Machine Learning**, with hands-on industry exposure through a **3-month Data Science Internship at Take It Smart** and practical end-to-end projects.
+I'm a **Computer Science & Engineering student** focused on **Data Analytics, Data Science, and Machine Learning**.
 
-I enjoy transforming raw data into meaningful insights and developing practical data-driven solutions using **Python, SQL, Power BI, Machine Learning, and Streamlit**.
+I enjoy transforming raw data into meaningful business insights and building end-to-end data projects — from **data cleaning and exploratory analysis to dashboards, machine learning models, and deployment**.
 
 * 💼 Completed a **3-month Data Science Internship at Take It Smart**
-* 📊 Focused on **Data Analytics & Data Science**
-* 🐍 Working with **Python, Pandas & NumPy**
-* 🗄️ Using **SQL** for querying and analyzing data
-* 📈 Building interactive dashboards using **Power BI**
-* 🔍 Performing **Data Cleaning, EDA & Feature Engineering**
+* 📊 Building business-focused **Data Analytics & Data Science projects**
+* 🐍 Working with **Python, SQL, Pandas, NumPy & Excel**
+* 📈 Creating interactive dashboards using **Power BI**
 * 🤖 Building and evaluating **Machine Learning models**
-* 🌐 Developing and deploying ML applications using **Streamlit**
-* 📚 Strengthening my knowledge of **SQL, Statistics, Power BI & Machine Learning**
+* 🌐 Deploying interactive ML applications using **Streamlit**
 * 🎯 Seeking entry-level opportunities in **Data Analytics / Data Science**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Data & Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
+
+### 📊 Visualization & BI
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+
+### 🤖 Machine Learning
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+
+`Linear Regression` `Logistic Regression` `Random Forest` `KNN`
+`Feature Engineering` `Model Evaluation` `Hyperparameter Tuning`
+
+### 🔧 Tools & Deployment
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🍽️ Zomato Restaurant Analytics & Rating Prediction
+
+**End-to-End Data Analytics + Machine Learning Project**
+
+Built a complete restaurant analytics and rating prediction solution covering **data cleaning, EDA, business analysis, Power BI visualization, machine learning, model optimization, and cloud deployment**.
+
+### 🔍 Key Work
+
+* Cleaned and preprocessed restaurant data
+* Performed exploratory and restaurant trend analysis
+* Built an interactive **Power BI dashboard**
+* Engineered features for predictive modeling
+* Trained and tuned a **Random Forest Regressor**
+* Evaluated model performance using MAE, RMSE and R²
+* Developed and deployed an interactive **Streamlit prediction application**
+
+### 🎯 Model Performance
+
+| Metric |      Score |
+| :----- | ---------: |
+| MAE    | **0.1603** |
+| RMSE   | **0.2233** |
+| R²     | **0.7409** |
+
+**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn` `Power BI` `Streamlit`
+
+[![View Project](https://img.shields.io/badge/View%20Project-Zomato%20Analytics-181717?style=for-the-badge\&logo=github)](https://github.com/Ganu180/ZOMATO_RATING_PREDICTION)
+
+---
+
+## 💰 E-Commerce Revenue Leakage & Profitability Analysis
+
+**Business-Focused Data Analytics Project**
+
+Analyzing e-commerce transactions to identify **revenue leakage, profitability issues, discount impact, operational inefficiencies, and opportunities to improve business performance**.
+
+### 🔍 Project Focus
+
+* Data Cleaning & Validation
+* Exploratory Data Analysis
+* Revenue & Profitability Analysis
+* Revenue Leakage Detection
+* SQL Business Analysis
+* KPI Development
+* Excel Analysis
+* Power BI Executive Dashboard
+* What-If Profit Analysis
+* Business Recommendations
+
+**Tech:** `Python` `SQL` `Excel` `Power BI` `Pandas`
+
+🚧 **Currently in Development**
+
+---
+
+## 🛡️ UPI Fraud Detection & Anomaly Detection Platform
+
+**Machine Learning & Fraud Analytics Project**
+
+Developing an end-to-end fraud detection system using **synthetic UPI-style transaction data** to identify suspicious and fraudulent transaction patterns.
+
+### 🔍 Project Focus
+
+* Transaction Data Analysis
+* Fraud Pattern Detection
+* Feature Engineering
+* Classification Modeling
+* Anomaly Detection
+* Fraud Risk Scoring
+* Model Evaluation
+* Explainable Fraud Flags
+
+**Tech:** `Python` `Pandas` `Scikit-learn` `Machine Learning`
+
+🚧 **Currently in Development**
+
+---
+
+## 🎯 Advertising Click Prediction
+
+Built a classification model using **Logistic Regression** to predict whether a user is likely to click an online advertisement.
+
+**Key Areas:** `EDA` `Data Preprocessing` `Logistic Regression` `Classification` `Model Evaluation`
+
+**Tech:** `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
+
+[![View Project](https://img.shields.io/badge/View%20Project-Advertising%20Prediction-181717?style=flat-square\&logo=github)](https://github.com/Ganu180/advertising_logistic_regression_project)
+
+---
+
+## 💰 E-Commerce Customer Spending Prediction
+
+Developed a **Linear Regression** model to predict yearly customer spending based on customer behavior and usage data.
+
+**Key Areas:** `EDA` `Relationship Analysis` `Linear Regression` `Prediction` `Model Evaluation`
+
+**Tech:** `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
+
+[![View Project](https://img.shields.io/badge/View%20Project-Customer%20Spending-181717?style=flat-square\&logo=github)](https://github.com/Ganu180/E-commerce-linear-regression-project)
+
+---
+
+## 🧠 K-Nearest Neighbors Classification
+
+Implemented and evaluated a **K-Nearest Neighbors classifier**, including error-rate analysis and optimal K selection.
+
+**Tech:** `Python` `Pandas` `Scikit-learn`
+
+[![View Project](https://img.shields.io/badge/View%20Project-KNN%20Classification-181717?style=flat-square\&logo=github)](https://github.com/Ganu180/KNN-Classification)
 
 ---
 
@@ -39,314 +183,86 @@ I enjoy transforming raw data into meaningful insights and developing practical 
 
 **Duration: 3 Months**
 
-Completed a 3-month Data Science internship with practical exposure to the **Data Analytics and Machine Learning workflow**.
-
-### 🔹 Key Areas
-
-* 🐍 Python for Data Analysis
-* 🧹 Data Cleaning & Preprocessing
-* 🔍 Exploratory Data Analysis (EDA)
-* 📊 Data Visualization
-* ⚙️ Feature Engineering
-* 🤖 Machine Learning
-* 🎯 Model Training & Evaluation
-* 📁 Working with real-world datasets
-
-The internship strengthened my ability to apply Data Science concepts to practical datasets and machine learning problems.
-
----
-
-# 🛠️ Technical Skills
-
-## 💻 Programming & Database
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
----
-
-## 📊 Data Analysis
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-
-**Data Cleaning • Data Preprocessing • Exploratory Data Analysis • Feature Engineering**
-
----
-
-## 📈 Visualization & Business Intelligence
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Visualization-4C72B0?style=for-the-badge)
-
----
-
-## 🤖 Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-
-**Linear Regression • Logistic Regression • Random Forest • KNN**
-
-**Predictive Modeling • Model Evaluation • Hyperparameter Tuning**
-
----
-
-## 🔧 Tools & Deployment
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-
-## 🍽️ Zomato Restaurant Analytics & Rating Prediction
-
-### ⭐ Flagship Data Analytics & Machine Learning Project
-
-An end-to-end project covering the complete workflow from **raw restaurant data to business analytics, machine learning, and cloud deployment**.
-
-### 📊 Data Analytics
+Worked on practical Data Science and Machine Learning tasks involving:
 
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis
-* Restaurant Trend Analysis
+* Statistical Analysis
 * Data Visualization
-* Interactive Power BI Dashboard
-
-### 🤖 Machine Learning
-
 * Feature Engineering
-* Random Forest Regression
-* Hyperparameter Tuning
-* Model Evaluation
-* Restaurant Rating Prediction
+* Machine Learning
+* Model Training & Evaluation
+* Linear Regression for customer spending prediction
 
-### 🎯 Final Model Performance
-
-| Metric   |      Score |
-| -------- | ---------: |
-| MAE      | **0.1603** |
-| RMSE     | **0.2233** |
-| R² Score | **0.7409** |
-
-The final model explains approximately **74.09% of the variation in restaurant ratings** on the evaluation data.
-
-### 🌐 Deployment
-
-Built an interactive **Streamlit prediction application** and successfully deployed the trained Machine Learning model to the cloud.
-
-**Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Power BI` `Streamlit`
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-Zomato%20Project-181717?style=for-the-badge\&logo=github)](https://github.com/Ganu180/ZOMATO_RATING_PREDICTION)
+This experience strengthened my understanding of applying the **end-to-end data science workflow to practical datasets and business problems**.
 
 ---
 
-## 🎯 Advertising Click Prediction
+# 📊 What I Work On
 
-Machine Learning classification project using **Logistic Regression** to predict whether a user will click an online advertisement.
-
-### 🔹 Highlights
-
-* Exploratory Data Analysis
-* Data Cleaning & Preprocessing
-* Data Visualization
-* Logistic Regression
-* Classification Prediction
-* Model Evaluation
-
-**Tech Stack:** `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
-
-[![View Repository](https://img.shields.io/badge/View%20Project-Advertising%20Prediction-181717?style=for-the-badge\&logo=github)](https://github.com/Ganu180/advertising_logistic_regression_project)
-
----
-
-## 💰 E-commerce Customer Spending Prediction
-
-Machine Learning regression project focused on predicting **customer yearly spending** based on customer behavior and usage data.
-
-### 🔹 Highlights
-
-* Exploratory Data Analysis
-* Relationship Analysis
-* Data Visualization
-* Linear Regression
-* Prediction
-* Model Evaluation
-
-**Tech Stack:** `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
-
-[![View Repository](https://img.shields.io/badge/View%20Project-E--commerce%20Prediction-181717?style=for-the-badge\&logo=github)](https://github.com/Ganu180/E-commerce-linear-regression-project)
-
----
-
-## 🧠 K-Nearest Neighbors Classification
-
-Machine Learning classification project demonstrating the implementation and optimization of the **K-Nearest Neighbors (KNN)** algorithm.
-
-### 🔹 Highlights
-
-* Data Preprocessing
-* KNN Classification
-* Model Evaluation
-* Error Rate Analysis
-* Optimal K Selection using the Elbow Method
-
-**Tech Stack:** `Python` `Pandas` `Scikit-learn`
-
-[![View Project](https://img.shields.io/badge/View%20Project-KNN%20Classification-181717?style=for-the-badge&logo=github)](https://github.com/Ganu180/KNN-Classification)
-
----
-
-# 🐍 Other Python Projects
-
-## 🎵 Python Music Player
-
-Desktop music application developed using Python.
-
-### Features
-
-* 🎵 Song Playback
-* 📂 Playlist Management
-* ⏯️ Playback Controls
-* 🔊 Volume Control
-* ⏱️ Progress Tracking
-* 🖥️ Multi-page Interface
-
----
-
-## 📞 Phone Directory
-
-Contact management application developed using **Python and Streamlit**.
-
-### Features
-
-* ➕ Add Contacts
-* 🔎 Search Contacts
-* ✏️ Update Contacts
-* 🗑️ Delete Contacts
-* 📋 View Saved Contacts
-
----
-
-# 🔄 My Data Science Workflow
-
-<div align="center">
-
-### 📥 Data
-
-### ↓
-
-### 🧹 Data Cleaning & Preprocessing
-
-### ↓
-
-### 🔍 Exploratory Data Analysis
-
-### ↓
-
-### 📊 Data Visualization
-
-### ↓
-
-### ⚙️ Feature Engineering
-
-### ↓
-
-### 🤖 Model Training
-
-### ↓
-
-### 🎯 Model Evaluation
-
-### ↓
-
-### 🔧 Model Optimization
-
-### ↓
-
-### 🌐 Deployment
-
-</div>
+```text
+Raw Data
+   ↓
+Data Cleaning & Validation
+   ↓
+Exploratory Data Analysis
+   ↓
+SQL & Business Analysis
+   ↓
+Data Visualization
+   ↓
+Business Insights
+   ↓
+Feature Engineering
+   ↓
+Machine Learning
+   ↓
+Model Evaluation & Optimization
+   ↓
+Deployment
+```
 
 ---
 
 # 📚 Currently Learning
 
-* 🗄️ Advanced SQL
-* 📊 Power BI & DAX
-* 📐 Statistics for Data Science
-* 🤖 Machine Learning
-* ⚙️ Feature Engineering
-* 🎯 Model Optimization
-* 📈 Data Storytelling
-* 🚀 End-to-End Data Science Projects
+`Advanced SQL` • `Power BI & DAX` • `Statistics` • `Machine Learning`
+`Data Storytelling` • `Feature Engineering` • `Business Analytics`
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ganu180&show_icons=true&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ganu180&show_icons=true&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganu180&layout=compact&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganu180&layout=compact&hide_border=true" height="165"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🎯 Career Focus
 
-<div align="center">
+I'm looking to begin my professional career in **Data Analytics / Data Science**, where I can use **Python, SQL, Power BI, Statistics, and Machine Learning** to solve business problems and transform data into actionable insights.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganu180&hide_border=true"/>
+My long-term focus is developing the ability to work across the complete data lifecycle:
 
-</div>
-
----
-
-# 🎯 Career Goal
-
-I'm looking to begin my professional career in **Data Analytics / Data Science**, where I can apply my knowledge of **Python, SQL, Power BI, Statistics, and Machine Learning** to solve real-world business problems and transform data into actionable insights.
-
-My goal is to grow into a data professional capable of handling the complete data lifecycle:
-
-### **Raw Data → Analysis → Business Insights → Visualization → Predictive Modeling → Deployment**
+**Raw Data → Analysis → Business Insights → Visualization → Predictive Modeling → Deployment**
 
 ---
 
-# 🤝 Let's Connect
-
-I'm actively looking for entry-level opportunities in **Data Analytics, Data Science, Python, and Machine Learning**.
-
-### 📬 Contact Me
-
-💼 **LinkedIn:** [Ganesh Gokhale](https://www.linkedin.com/in/ganesh-gokhale-g18/)
-
-📧 **Email:** [iamganeshgokhale180@gmail.com](mailto:iamganeshgokhale180@gmail.com)
-
-🐙 **GitHub:** [Ganu180](https://github.com/Ganu180)
-
 <div align="center">
 
-### Connect with me
+## 🤝 Let's Connect
+
+I'm open to **Data Analyst, Data Science, and Machine Learning opportunities**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh%20Gokhale-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ganesh-gokhale-g18/)
 
-[![Email](https://img.shields.io/badge/Email-iamganeshgokhale180%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:iamganeshgokhale180@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:iamganeshgokhale180@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ganu180-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Ganu180)
-
-<br>
-
-### ⭐ Thanks for visiting my profile!
-
-**Feel free to explore my repositories and projects.**
+### ⭐ Thanks for visiting!
 
 </div>
